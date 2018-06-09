@@ -1,6 +1,6 @@
 # vs-code
 ## shorcut keys
-<b> `ctrl + b ` </b> show hide side bar  <br>
+<i style='font-size:3em'>-></i> <b> `ctrl + b ` </b> show hide side bar  <br>
 <b> `alt + up`  or  `alt + down` </b>  For move line up and down <br>
 <b> `ctrl + d `</b> For multiple same world selection  <br>
 <b>`ctrl + up || ctrl + down` </b> For scroll screen ups and down  <br>
