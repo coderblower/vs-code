@@ -1,3 +1,3 @@
 # vs-code
 ## shorcut keys
-`ctrl + b ` *For Show hide sidebar*
+`ctrl + b ` <b> show hide side bar </b>
